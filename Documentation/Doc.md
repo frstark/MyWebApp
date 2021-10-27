@@ -98,9 +98,31 @@ Zweiter Versuch:
 
 ## Code Unit Tests <a name="code_unit_tests"></a>
 
-<p>Use Spring Data JPA Test</p>
+###Use Spring Data JPA Test
+###Test CRUD operation on users
+###Run tests against real database
 
-<p>Test CRUD operation on users</p>
+
+![](.Doc_images/test1.png)
+Test1:
+
+Fehler: id has no default value
+<br>
+Lösung: 
+
+![](.Doc_images/loesung-id.png)
+
+Test 2:
+
+![](.Doc_images/test2.png)
+
+
+
+
+
+
+
+
 
 
 
