@@ -13,26 +13,24 @@
 ###Neues Projekt erstellen:
 <br>
 
-![](D:\IT-Kolleg D\5AAIF\FSE\FullStack Devo\MyWebApp\Documentation\Screenshots\neues_projekt.JPG)
-
+![](.Doc_images/neues_projekt.png)
 
 
 ### Create Database Sceme:
 
 <p>MySQL anbinden:</p>
 
-![](D:\IT-Kolleg D\5AAIF\FSE\FullStack Devo\MyWebApp\Documentation\Screenshots\Database.JPG)
+![](.Doc_images/Database.png)
 
 <p>Neues Sceme erstellen:</p>
 
-![](D:\IT-Kolleg D\5AAIF\FSE\FullStack Devo\MyWebApp\Documentation\Screenshots\new_sceme.JPG)
-
+![](.Doc_images/new_sceme.png)
 
 ### Configure DataSource Properties:
 
 Properties für die SQL Schnitstelle:
-![](D:\IT-Kolleg D\5AAIF\FSE\FullStack Devo\MyWebApp\Documentation\Screenshots\sq-properties.JPG)
 
+![](.Doc_images/sql_properties.png)
 
 ### Code Home Page 
 
