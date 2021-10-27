@@ -8,6 +8,8 @@
 4. [Code Home Page](#code_home_page)
 5. [Configure IntelliJ for DevTools](#configure)
 6. [Bootstrap for the Project](#bootstrap)
+7. [Code Data Access Layer for User module](#code_data_access_layer)
+8. [Code Unit Tests](#code_unit_tests)
 
 
 
@@ -22,7 +24,7 @@
 ![](.Doc_images/neues_projekt.png)
 
 
-### Create Database Sceme: <a name="create_database"></>
+### Create Database Sceme: <a name="create_database"></a>
 
 <p>MySQL anbinden:</p>
 
@@ -75,6 +77,30 @@ Zweiter Versuch:
 
 ## Bootstrap for the Project <a name="bootstrap"></a>
 
+![](.Doc_images/bootstrap-pom.png)
+![](.Doc_images/html-bootstrap.png)
+![](.Doc_images/d363474a.png)
+![](.Doc_images/html-with-bootstrap.png)
+
+## Code Data Access Layer for User module <a name="code_data_access_layer"></a>
+
+<p>Code User entity class
+
+![](.Doc_images/user_entitiy.png)
+<p>Code UserRepository
+
+![](.Doc_images/UserRep.png)
+
+<p>Run the application</p>
+
+![](.Doc_images/myworkbench.png)
+![](.Doc_images/intellij-workbench.png)
+
+## Code Unit Tests <a name="code_unit_tests"></a>
+
+<p>Use Spring Data JPA Test</p>
+
+<p>Test CRUD operation on users</p>
 
 
 
