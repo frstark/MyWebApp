@@ -21,15 +21,27 @@ public class UserRepositoryTests {
     public void testAddNew() {
         User user = new User();
 
-        user.setEmail("frstark@tsn.at");
+        user.setEmail("alex.stevenson@tsn.at");
         user.setPassword("qwertz");
-        user.setFirstName("Frank");
-        user.setLastName("Stark");
+        user.setFirstName("Alex");
+        user.setLastName("Stevenson");
 
        User savedUser = repo.save(user);
 
         Assertions.assertThat(savedUser).isNotNull();
         Assertions.assertThat(savedUser.getId()).isGreaterThan(0);
+
+
+    }
+
+    @Test
+    public void testListAll(){
+        Iterable<User> users = repo.findAll();
+        Assertions.assertThat(users).hasSizeGreaterThan(0);
+
+        for (User user : users) {
+            System.out.println(user);
+        }
 
 
     }
