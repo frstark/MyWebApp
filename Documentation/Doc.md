@@ -13,6 +13,7 @@
 9. [Code User Listing Page](#code_user_listing_page)
 10. [Code Add User Function](#code_add_user_function)
 11. [Code Form Validation](#code_form_validation)
+12. [Code Edit/Update User Function](#edit_update)
 
 
 
@@ -152,3 +153,9 @@ Test 3:
 
 ![](.Doc_images/5d32a3a9.png)
 ![](.Doc_images/erfolgreich.png)
+
+
+## Code Edit/Update User Function <a name="edit_update"></a>
+
+![](.Doc_images/ff55400e.png)
+![](.Doc_images/f5b9e749.png)
