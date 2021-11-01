@@ -11,6 +11,8 @@
 7. [Code Data Access Layer for User module](#code_data_access_layer)
 8. [Code Unit Tests](#code_unit_tests)
 9. [Code User Listing Page](#code_user_listing_page)
+10. [Code Add User Function](#code_add_user_function)
+11. [Code Form Validation](#code_form_validation)
 
 
 
@@ -131,10 +133,14 @@ Test 3:
 ![](.Doc_images/user-controller.png)
 
 
+## Code Add User Function <a name="code_add_user_function"></a>
+
+![](.Doc_images/form.png)
+![](.Doc_images/form-controller.png)
+
+![](.Doc_images/form-html.png)
 
 
-
-
-
+## Code Form Validation <a name="code_form_validation"></a>
 
 
