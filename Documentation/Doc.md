@@ -14,6 +14,7 @@
 10. [Code Add User Function](#code_add_user_function)
 11. [Code Form Validation](#code_form_validation)
 12. [Code Edit/Update User Function](#edit_update)
+13. [Code Delete User Function](#code_delete_user_function)
 
 
 
@@ -159,3 +160,19 @@ Test 3:
 
 ![](.Doc_images/ff55400e.png)
 ![](.Doc_images/f5b9e749.png)
+
+![](.Doc_images/edit-hzml.png)
+
+Sehr wichtig:
+![](.Doc_images/update user_forms.png)
+## Code Delete User Function <a name="code_delete_user_function"></a>
+
+![](.Doc_images/code-delete.png)
+![](.Doc_images/delete_controller.png)
+![](.Doc_images/delete-rapitory.png)
+
+Vorher:
+![](.Doc_images/vorher.png)
+
+Nachher:
+![](.Doc_images/nachher.png)
